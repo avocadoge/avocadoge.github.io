@@ -2,5 +2,10 @@
 
 The modern world demands modern memes.
 
+<img src="avocadoge-crop-sml.png" alt="avocadoge logo" />
 
-<img src="avocadoge-crop.png" alt="avocadoge logo" />
+Launching soon, a unique and versatile meme token.
+
+For years we have heard how Avocados are keeping us poor. 
+
+This is your chance to become rich in nutrients, by combining the protein packed nature of avocado with the meme nature of doge.
