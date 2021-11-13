@@ -2,7 +2,7 @@
 
 The modern world demands modern memes.
 
-<img src="avocadoge.svg" width="50%" alt="avocadoge logo" />
+<img src="avocadoge.svg" width="30%" alt="avocadoge logo" />
 
 Launching soon, a unique and versatile meme token.
 
