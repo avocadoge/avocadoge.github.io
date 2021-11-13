@@ -1,4 +1,4 @@
-# Avocadoge
+# AvocaDoge
 
 The modern world demands modern memes.
 
