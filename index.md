@@ -39,8 +39,8 @@ This rewards holders over time with more AvocaDoge.
 
 ## Roadmap
 
-* [ ] Testnet Deployment
-* [ ] Promotional Site
+* [x] Testnet Deployment
+* [x] Promotional Site
 * [ ] Mainnet Beta
 * [ ] Launch
 * [ ] Burn and Liqudity Transfer
