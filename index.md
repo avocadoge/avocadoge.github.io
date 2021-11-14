@@ -1,6 +1,6 @@
 # AvocaDoge
 
-The modern world demands modern memes.
+The modern world demands modern memecoins.
 
 <img src="avocadoge.svg" width="30%" alt="avocadoge logo" />
 
