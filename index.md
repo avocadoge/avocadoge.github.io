@@ -31,7 +31,9 @@ For years we have heard how Avocados are keeping us poor.
 
 Become rich in nutrients, by combining the protein packed nature of avocado with the meme nature of doge.
 
+<div align="center">
 <a href="https://pancakeswap.finance/swap?outputCurrency=0xae2d9f730c5440094c06a17462c41c0a06ed8&utm_source=avocadoge.net"><img src="buttons/pancakeswap_buy.png" /></a>
+</div>
 
 ## Features
 
