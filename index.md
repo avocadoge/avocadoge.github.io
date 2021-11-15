@@ -1,11 +1,19 @@
 
 <div id="social" align="center"><p>
-<a href="http://twitter.com/DogeAvoca"><img src="social/twitter.png" width="5%" /></a>
+<a href="http://twitter.com/DogeAvoca?utm_source=avocadoge.net"><img src="social/twitter.png" width="5%" /></a>
 </p></div>
 
 <div align="center"><img src="avocadoge.svg" width="30%" alt="avocadoge logo" /></div>
 
-<button name="button" onclick="http://www.google.com">Click me</button>
+<div align="center"><p>
+<a href="https://dex.guru/token/0x2260fac5e5542a773aa44fbcfedf7c193bc2c599-eth?utm_source=avocadoge.net">Dex.Guru</a>
+<a href="https://">Poocoin.app</a>
+<a href="https://">CoinGecko</a>
+<a href="https://">CoinMarketCap</a>
+<a href="https://">LiveCoinWatch</a>
+<a href="https://">CoinPaprika</a>
+<a href="https://charts.bogged.finance/0xAe2DF9F730c54400934c06a17462c4C08a06ED8?utm_source=avocadoge.net">BOG Charts</a>
+</p></div>
 
 # AvocaDoge
 
@@ -67,3 +75,8 @@ AvocaDoge in circulation declines over time to encourage price stability.
 * [ ] Security Audit
 * [ ] Top Ten on Coinmarketcap
 * [ ] Moon Base Avo
+
+<div align="center"><p>
+<a href="mailto:avocadogetoken@gmail.com">Contact</a>
+</p>
+</div>
