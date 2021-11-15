@@ -9,11 +9,15 @@
 
 [Dex.Guru](https://dex.guru/token/0x2260fac5e5542a773aa44fbcfedf7c193bc2c599-eth?utm_source=avocadoge.net) |
 [Poocoin.app](https://poocoin.app/tokens/0xe2df9f730c54400934c06a17462c41c0806ed8?utm_source=avocadoge.net) |
+[BOG Charts](https://charts.bogged.finance/0xAe2DF9F730c5400934c06a17462c4C08a06ED8?utm_source=avocadoge.net)
+
+<!--
+[CoinPaprika](https://coinpaprika.com/coin/avodoge-avocadoge/?utm_source=avocadoge.net) |
+[LiveCoinWatch](https://www.livecoinwatch.com/price/Avocadoge-AVODOGE?utm_source=avocadoge.net) |
 [CoinGecko](https://www.coingecko.com/en/coins/avocadoge?utm_source=avocadoge.net) |
 [CoinMarketCap](https://coinmarketcap.com/currencies/avocadoge/?utm_source=avocadoge.net) |
-[LiveCoinWatch](https://www.livecoinwatch.com/price/Avocadoge-AVODOGE?utm_source=avocadoge.net) |
-[CoinPaprika](https://coinpaprika.com/coin/avodoge-avocadoge/?utm_source=avocadoge.net) |
-[BOG Charts](https://charts.bogged.finance/0xAe2DF9F730c5400934c06a17462c4C08a06ED8?utm_source=avocadoge.net)
+-->
+
 
 </div>
 
@@ -79,6 +83,7 @@ AvocaDoge in circulation declines over time to encourage price stability.
 * [ ] Moon Base Avo
 
 <div align="center"><p>
-<a href="mailto:avocadogetoken@gmail.com">Contact</a>
+<a href="mailto:avocadogetoken@gmail.com">Contact</a> | 
+[Poocoin.app](https://poocoin.app/tokens/0xe2df9f730c54400934c06a17462c41c0806ed8?utm_source=avocadoge.net) |
 </p>
 </div>
