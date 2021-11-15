@@ -1,3 +1,8 @@
+
+<div id="social" align="center"><p>
+<a href="http://twitter.com/DogeAvoca"><img src="social/twitter.png" width="5%" /></a>
+</p></div>
+
 <div align="center"><img src="avocadoge.svg" width="30%" alt="avocadoge logo" /></div>
 
 # AvocaDoge
@@ -9,8 +14,6 @@ Launching soon, 🥑 🐕, a unique and versatile meme token.
 For years we have heard how Avocados are keeping us poor. 
 
 Become rich in nutrients, by combining the protein packed nature of avocado with the meme nature of doge.
-
-<div align="center"><img src="pancakeswap.png" /></div>
 
 ## Features
 
@@ -25,6 +28,8 @@ Transfers incur:
 Holders are rewarded with more AvocaDoge over time just for holding.
 
 AvocaDoge in circulation declines over time to encourage price stability.
+
+<div align="center"><img src="pancakeswap.png" /></div>
 
 ## Tokenomics
 
@@ -61,5 +66,3 @@ AvocaDoge in circulation declines over time to encourage price stability.
 * [ ] Security Audit
 * [ ] Top Ten on Coinmarketcap
 * [ ] Moon Base Avo
-
-<div id="social" align="center"><p><a href="http://twitter.com/DogeAvoca"><img src="social/twitter.png" width="15%"/></a></p></div>
