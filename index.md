@@ -12,10 +12,11 @@ This is your chance to become rich in nutrients, by combining the protein packed
 
 ## Tokenomics
 
-* Many tokens (100 Trillion).
-* Much wow.
-* Some served with toast and burnt (30% Avo On Toast) 🥑 🍞
-* The rest sent to Pancakeswap for liquidity at launch (68%).
+* 💵 Many tokens (100 Trillion).
+* 😮 Much wow.
+* 🍞 Some served with toast and burnt (30% Avo On Toast)
+* 💧 Liquidity provided to Pancakeswap at launch (58%)
+* 🤝 Dev team retains only 10% for future development and partnerships
 
 ## Features
 
@@ -29,7 +30,7 @@ Transfers incur:
 
 This rewards holders over time with more AvocaDoge.
 
-## Launch 
+## Launch Details
 
 * Coming in 2021.
 * Fair launch
@@ -43,6 +44,12 @@ This rewards holders over time with more AvocaDoge.
 * [x] Promotional Site
 * [ ] Mainnet Beta
 * [ ] Launch
-* [ ] Burn and Liqudity Transfer
-* [ ] Ownership Renounced
+* [ ] Burn
+* [ ] Provide Liquidity
 
+## Future
+
+* [ ] Partnerships
+* [ ] Promotion
+* [ ] Liquidity Lock
+* [ ] Ownership Renounce
