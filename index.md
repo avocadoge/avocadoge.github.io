@@ -6,12 +6,12 @@
 <div align="center"><img src="avocadoge.svg" width="30%" alt="avocadoge logo" /></div>
 
 <div align="center"><p>
-<a href="https://dex.guru/token/0x2260fac5e5542a773aa44fbcfedf7c193bc2c599-eth?utm_source=avocadoge.net">Dex.Guru</a>
-<a href="https://poocoin.app/tokens/0xe2df9f730c54400934c06a17462c41c0806ed8?utm_source=avocadoge.net">Poocoin.app</a>
-<a href="https://www.coingecko.com/en/coins/avocadoge?utm_source=avocadoge.net">CoinGecko</a>
-<a href="https://coinmarketcap.com/currencies/avocadoge/?utm_source=avocadoge.net">CoinMarketCap</a>
-<a href="https://www.livecoinwatch.com/price/Avocadoge-AVODOGE?utm_source=avocadoge.net">LiveCoinWatch</a>
-<a href="https://coinpaprika.com/coin/avodoge-avocadoge/?utm_source=avocadoge.net">CoinPaprika</a>
+<a href="https://dex.guru/token/0x2260fac5e5542a773aa44fbcfedf7c193bc2c599-eth?utm_source=avocadoge.net">Dex.Guru</a> | 
+<a href="https://poocoin.app/tokens/0xe2df9f730c54400934c06a17462c41c0806ed8?utm_source=avocadoge.net">Poocoin.app</a> |
+<a href="https://www.coingecko.com/en/coins/avocadoge?utm_source=avocadoge.net">CoinGecko</a> |
+<a href="https://coinmarketcap.com/currencies/avocadoge/?utm_source=avocadoge.net">CoinMarketCap</a> |
+<a href="https://www.livecoinwatch.com/price/Avocadoge-AVODOGE?utm_source=avocadoge.net">LiveCoinWatch</a> |
+<a href="https://coinpaprika.com/coin/avodoge-avocadoge/?utm_source=avocadoge.net">CoinPaprika</a> |
 <a href="https://charts.bogged.finance/0xAe2DF9F730c5400934c06a17462c4C08a06ED8?utm_source=avocadoge.net">BOG Charts</a>
 </p></div>
 
@@ -44,9 +44,9 @@ AvocaDoge in circulation declines over time to encourage price stability.
 ## Tokenomics
 
 * 💵 Many tokens (100 Trillion), Much wow.
-* 🍞 Some served with toast and burnt (30% Avo On Toast) [ [link to tx](bscscan.com/token/0x09d0201faf1623b1c58F485364dC7B1893Ebc#balances) ]
-* 💧 Liquidity provided to Pancakeswap at launch (63%) [ [link to tx](bscscan.com/token/0x09d0201faf1623b1c58F485364dC7B1893Ebc#balances) ]
-* 🤝 5% retained for future development and partnerships [ [link to tx](bscscan.com/token/0x09d0201faf1623b1c58F485364dC7B1893Ebc#balances) ]
+* 🍞 Some served with toast and burnt (30% Avo On Toast) 
+* 💧 Liquidity provided to Pancakeswap at launch (63%) 
+* 🤝 5% retained for future development and partnerships 
 
 ## Launch Details
 
