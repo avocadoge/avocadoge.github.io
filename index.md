@@ -1,8 +1,8 @@
+<img src="avocadoge.svg" width="30%" alt="avocadoge logo" />
+
 # AvocaDoge
 
 The modern world demands modern memecoins.
-
-<img src="avocadoge.svg" width="30%" alt="avocadoge logo" />
 
 Launching soon, 🥑 🐕, a unique and versatile meme token.
 
