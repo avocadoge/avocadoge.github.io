@@ -5,6 +5,8 @@
 
 <div align="center"><img src="avocadoge.svg" width="30%" alt="avocadoge logo" /></div>
 
+<button name="button" onclick="http://www.google.com">Click me</button>
+
 # AvocaDoge
 
 The modern world demands modern memecoins.
