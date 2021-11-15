@@ -57,5 +57,7 @@ AvocaDoge in circulation declines over time to encourage price stability.
 * [ ] Liquidity Lock
 * [ ] Ownership Renounce
 * [ ] Exchange Listings
+* [ ] Whitepaper
+* [ ] Security Audit
 * [ ] Top Ten on Coinmarketcap
 * [ ] Moon Base Avo
