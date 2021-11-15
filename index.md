@@ -82,8 +82,7 @@ AvocaDoge in circulation declines over time to encourage price stability.
 * [ ] Top Ten on Coinmarketcap
 * [ ] Moon Base Avo
 
-<div align="center"><p>
+<div align="center">
 <a href="mailto:avocadogetoken@gmail.com">Contact</a> | 
 [Poocoin.app](https://poocoin.app/tokens/0xe2df9f730c54400934c06a17462c41c0806ed8?utm_source=avocadoge.net) |
-</p>
 </div>
