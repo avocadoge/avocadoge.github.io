@@ -69,7 +69,7 @@ AvocaDoge in circulation declines over time to encourage price stability.
 <p>Avotoshi Nakamado</p>
 </div>
 
-<div align="center">
+<div align="center" width="100%">
 
 <div style="display: inline-block" width="40%">
 
@@ -85,7 +85,7 @@ AvocaDoge in circulation declines over time to encourage price stability.
 
 </div>
 
-<div style="display: inline-block" width="40%">
+<div style="display: inline-block" width="40%" float="left">
 
 ## Future
 
