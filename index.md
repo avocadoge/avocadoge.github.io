@@ -1,4 +1,4 @@
-<img src="avocadoge.svg" width="30%" alt="avocadoge logo" />
+<div align="center"><img src="avocadoge.svg" width="30%" alt="avocadoge logo" /></div>
 
 # AvocaDoge
 
@@ -10,18 +10,18 @@ For years we have heard how Avocados are keeping us poor.
 
 Become rich in nutrients, by combining the protein packed nature of avocado with the meme nature of doge.
 
-<img src="pancakeswap.png" />
+<div align="center"><img src="pancakeswap.png" /></div>
 
 ## Features
 
 AvocaDoge is deflationary in nature, as a 10% tax is applied to all transfers.
 
 Transfers incur:
-
+  
 * 🪴 5% tax is reflected  to all holders (Replanted) 🪴
 * 🔨 5% tax is sent back to the liquidity pool (Smashed Avo) 🔨
 * 🍞 A portion of the reflections are sent to the burn address to become Avo On Toast. 🍞
-
+  
 Holders are rewarded with more AvocaDoge over time just for holding.
 
 AvocaDoge in circulation declines over time to encourage price stability.
