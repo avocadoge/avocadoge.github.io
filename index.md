@@ -44,9 +44,9 @@ AvocaDoge in circulation declines over time to encourage price stability.
 ## Tokenomics
 
 * 💵 Many tokens (100 Trillion), Much wow.
-* 🍞 Some served with toast and burnt (30% Avo On Toast)
-* 💧 Liquidity provided to Pancakeswap at launch (63%)
-* 🤝 5% retained for future development and partnerships
+* 🍞 Some served with toast and burnt (30% Avo On Toast) [link to tx](bscscan.com/token/0x09d0201faf1623b1c58F485364dC7B1893Ebc#balances)
+* 💧 Liquidity provided to Pancakeswap at launch (63%) [link to tx](bscscan.com/token/0x09d0201faf1623b1c58F485364dC7B1893Ebc#balances)
+* 🤝 5% retained for future development and partnerships [link to tx](bscscan.com/token/0x09d0201faf1623b1c58F485364dC7B1893Ebc#balances)
 
 ## Launch Details
 
