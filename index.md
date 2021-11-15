@@ -6,7 +6,9 @@
 <div align="center"><img src="avocadoge.svg" width="30%" alt="avocadoge logo" /></div>
 
 <div align="center"><p>
+
 [Dex.Guru](https://dex.guru/token/0x2260fac5e5542a773aa44fbcfedf7c193bc2c599-eth?utm_source=avocadoge.net) |
+
 <a href="https://dex.guru/token/0x2260fac5e5542a773aa44fbcfedf7c193bc2c599-eth?utm_source=avocadoge.net">Dex.Guru</a> | 
 <a href="https://poocoin.app/tokens/0xe2df9f730c54400934c06a17462c41c0806ed8?utm_source=avocadoge.net">Poocoin.app</a> |
 <a href="https://www.coingecko.com/en/coins/avocadoge?utm_source=avocadoge.net">CoinGecko</a> |
