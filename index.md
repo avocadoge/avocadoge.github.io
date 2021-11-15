@@ -50,6 +50,7 @@ AvocaDoge in circulation declines over time to encourage price stability.
 * [ ] Launch
 * [ ] Burn
 * [ ] Provide Liquidity
+* [ ] DEX Listing (Pancakeswap)
 
 ## Future
 
@@ -57,3 +58,6 @@ AvocaDoge in circulation declines over time to encourage price stability.
 * [ ] Promotion
 * [ ] Liquidity Lock
 * [ ] Ownership Renounce
+* [ ] Exchange Listings
+* [ ] Top Ten on Coinmarketcap
+* [ ] Moon Base Avo
