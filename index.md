@@ -22,7 +22,8 @@ Become rich in nutrients, by combining the protein packed nature of avocado with
 
 ## Features
 
-AvocaDoge is deflationary in nature, as a 10% tax is applied to all transfers.
+
+AvocaDoge (ä-və-ˈkä-(ˌ)dōj) is deflationary in nature, as a 10% tax is applied to all transfers.
 
 Transfers incur:
 
