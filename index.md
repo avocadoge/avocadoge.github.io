@@ -69,6 +69,9 @@ AvocaDoge in circulation declines over time to encourage price stability.
 <p>Avotoshi Nakamado</p>
 </div>
 
+<div align="center">
+
+<div>
 ## Roadmap
 
 * [x] Testnet Deployment
@@ -78,7 +81,9 @@ AvocaDoge in circulation declines over time to encourage price stability.
 * [ ] Burn [ [link to tx](bscscan.com/token/0x09d0201faf1623b1c58F485364dC7B1893Ebc#balances) ]
 * [ ] Provide Liquidity [ [link to tx](bscscan.com/token/0x09d0201faf1623b1c58F485364dC7B1893Ebc#balances) ]
 * [ ] DEX Listing (Pancakeswap)
+</div>
 
+<div>
 ## Future
 
 * [ ] Partnerships
@@ -90,6 +95,8 @@ AvocaDoge in circulation declines over time to encourage price stability.
 * [ ] Security Audit
 * [ ] Top Ten on Coinmarketcap
 * [ ] Moon Base Avo
+</div>
+</div>
 
 <div align="center">
 
