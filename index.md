@@ -1,10 +1,3 @@
-
-<div id="social" align="center"><p>
-<a href="http://twitter.com/DogeAvoca?utm_source=avocadoge.net"><img src="social/twitter.png" width="2%" /></a>
-</p></div>
-
-<div align="center"><img src="avocadoge.svg" width="30%" alt="avocadoge logo" /></div>
-
 <div align="center">
 
 [Dex.Guru](https://dex.guru/token/0x2260fac5e5542a773aa44fbcfedf7c193bc2c599-eth?utm_source=avocadoge.net) |
@@ -17,9 +10,20 @@
 [CoinGecko](https://www.coingecko.com/en/coins/avocadoge?utm_source=avocadoge.net) |
 [CoinMarketCap](https://coinmarketcap.com/currencies/avocadoge/?utm_source=avocadoge.net) |
 -->
-
-
 </div>
+
+
+<div align="center"><p>
+
+<a href="http://twitter.com/DogeAvoca?utm_source=avocadoge.net"><img src="social/twitter.png" width="2%" /></a>
+
+</p></div>
+
+<div align="center"><img src="avocadoge.svg" width="30%" alt="avocadoge logo" /></div>
+
+<div id="social" align="center"><p>
+<a href="http://twitter.com/DogeAvoca?utm_source=avocadoge.net"><img src="social/twitter.png" width="2%" /></a>
+</p></div>
 
 # AvocaDoge
 
