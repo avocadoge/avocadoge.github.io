@@ -10,6 +10,8 @@ For years we have heard how Avocados are keeping us poor.
 
 Become rich in nutrients, by combining the protein packed nature of avocado with the meme nature of doge.
 
+<img src="pancakeswap.png" />
+
 ## Tokenomics
 
 * 💵 Many tokens (100 Trillion).
