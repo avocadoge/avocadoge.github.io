@@ -64,7 +64,7 @@ AvocaDoge in circulation declines over time to encourage price stability.
 
 <div align="center">
 <img src="team/founder.png">
-<p>Avotoshi nakamado</p>
+<p>Avotoshi Nakamado</p>
 </div>
 
 ## Roadmap
