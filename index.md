@@ -12,16 +12,7 @@ Become rich in nutrients, by combining the protein packed nature of avocado with
 
 <img src="pancakeswap.png" />
 
-## Tokenomics
-
-* 💵 Many tokens (100 Trillion).
-* 😮 Much wow.
-* 🍞 Some served with toast and burnt (30% Avo On Toast)
-* 💧 Liquidity provided to Pancakeswap at launch (63%)
-* 🤝 5% retained for future development and partnerships
-
 ## Features
-
 
 AvocaDoge is deflationary in nature, as a 10% tax is applied to all transfers.
 
@@ -35,13 +26,19 @@ Holders are rewarded with more AvocaDoge over time just for holding.
 
 AvocaDoge in circulation declines over time to encourage price stability.
 
+## Tokenomics
+
+* 💵 Many tokens (100 Trillion).
+* 😮 Much wow.
+* 🍞 Some served with toast and burnt (30% Avo On Toast)
+* 💧 Liquidity provided to Pancakeswap at launch (63%)
+* 🤝 5% retained for future development and partnerships
+
 ## Launch Details
 
-* Coming in 2021.
 * Fair launch
 * 30% Tokens burnt
 * Token Liquidity to Pancakeswap
-* Ownership renounced
 
 ## Roadmap
 
