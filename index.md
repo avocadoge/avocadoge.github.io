@@ -1,6 +1,6 @@
 
 <div id="social" align="center"><p>
-<a href="http://twitter.com/DogeAvoca?utm_source=avocadoge.net"><img src="social/twitter.png" width="5%" /></a>
+<a href="http://twitter.com/DogeAvoca?utm_source=avocadoge.net"><img src="social/twitter.png" width="2%" /></a>
 </p></div>
 
 <div align="center"><img src="avocadoge.svg" width="30%" alt="avocadoge logo" /></div>
