@@ -60,6 +60,13 @@ AvocaDoge in circulation declines over time to encourage price stability.
 * 30% Tokens burnt
 * Token Liquidity to Pancakeswap
 
+## Team
+
+<div align="center">
+<img src="team/founder.jpg">
+<p>Avotoshi nakamado</p>
+</div>
+
 ## Roadmap
 
 * [x] Testnet Deployment
