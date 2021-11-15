@@ -61,3 +61,6 @@ AvocaDoge in circulation declines over time to encourage price stability.
 * [ ] Security Audit
 * [ ] Top Ten on Coinmarketcap
 * [ ] Moon Base Avo
+
+
+{% social_icons %}
