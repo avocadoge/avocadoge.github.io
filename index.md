@@ -71,7 +71,7 @@ AvocaDoge in circulation declines over time to encourage price stability.
 
 <div align="center">
 
-<div style="display: inline-block">
+<div style="display: inline-block" width="40%">
 
 ## Roadmap
 
@@ -82,9 +82,10 @@ AvocaDoge in circulation declines over time to encourage price stability.
 * [ ] Burn [ [link to tx](bscscan.com/token/0x09d0201faf1623b1c58F485364dC7B1893Ebc#balances) ]
 * [ ] Provide Liquidity [ [link to tx](bscscan.com/token/0x09d0201faf1623b1c58F485364dC7B1893Ebc#balances) ]
 * [ ] DEX Listing (Pancakeswap)
+
 </div>
 
-<div style="display: inline-block">
+<div style="display: inline-block" width="40%">
 
 ## Future
 
