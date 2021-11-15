@@ -71,7 +71,8 @@ AvocaDoge in circulation declines over time to encourage price stability.
 
 <div align="center">
 
-<div>
+<div style="display: inline-block">
+
 ## Roadmap
 
 * [x] Testnet Deployment
@@ -83,7 +84,8 @@ AvocaDoge in circulation declines over time to encourage price stability.
 * [ ] DEX Listing (Pancakeswap)
 </div>
 
-<div>
+<div style="display: inline-block">
+
 ## Future
 
 * [ ] Partnerships
@@ -95,6 +97,7 @@ AvocaDoge in circulation declines over time to encourage price stability.
 * [ ] Security Audit
 * [ ] Top Ten on Coinmarketcap
 * [ ] Moon Base Avo
+
 </div>
 </div>
 
