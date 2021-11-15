@@ -62,5 +62,4 @@ AvocaDoge in circulation declines over time to encourage price stability.
 * [ ] Top Ten on Coinmarketcap
 * [ ] Moon Base Avo
 
-
-{% social_icons %}
+<div id="social" align="center"><p><a href="http://twitter.com/DogeAvoca"><img src="twitter.png" /></a></p></div>
