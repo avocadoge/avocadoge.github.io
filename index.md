@@ -30,7 +30,9 @@ Become rich in nutrients, by combining the protein packed nature of avocado with
 
 <div align="center">
 <a href="https://pancakeswap.finance/swap?outputCurrency=0xae2d9f730c5440094c06a17462c41c0a06ed8&utm_source=avocadoge.net"><img src="buttons/pancakeswap_buy.png" /></a>
+<p>
 Contract: 0x04345674567845567465745678657
+</p>
 </div>
 
 ## Features
