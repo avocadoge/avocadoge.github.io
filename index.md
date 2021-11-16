@@ -22,7 +22,7 @@
 
 The modern world demands modern memecoins.
 
-Launching soon, 🥑 🐕, a unique and versatile meme token.
+Presenting AvocaDoge, 🥑 🐕, a unique and versatile meme token.
 
 For years we have heard how Avocados are keeping us poor. 
 
@@ -34,7 +34,7 @@ Become rich in nutrients, by combining the protein packed nature of avocado with
 
 ## Features
 
-AvocaDoge is deflationary in nature, as a 10% tax is applied to all transfers.
+AvocaDoge is deflationary in nature, as a 10% tax is applied to all transactions.
 
 Transfers incur:
   
@@ -42,7 +42,7 @@ Transfers incur:
 * 🔨 5% tax is sent back to the liquidity pool (Smashed Avo) 🔨
 * 🍞 A portion of the reflections are sent to the burn address to become Avo On Toast. 🍞
   
-Holders are rewarded with more AvocaDoge over time just for holding.
+Holders are rewarded with more AvocaDoge just for holding.
 
 AvocaDoge in circulation declines over time to encourage price stability.
 
@@ -68,22 +68,33 @@ AvocaDoge in circulation declines over time to encourage price stability.
 
 ## Roadmap
 
+### Phase 1
+
 * [x] Testnet Deployment
 * [x] Promotional Site
-* [ ] Mainnet Beta
+* [x] Mainnet Beta
 * [ ] Launch [ [link to tx](bscscan.com/token/0x09d0201faf1623b1c58F485364dC7B1893Ebc#balances) ]
 * [ ] Burn [ [link to tx](bscscan.com/token/0x09d0201faf1623b1c58F485364dC7B1893Ebc#balances) ]
 * [ ] Provide Liquidity [ [link to tx](bscscan.com/token/0x09d0201faf1623b1c58F485364dC7B1893Ebc#balances) ]
 * [ ] DEX Listings (Pancakeswap)
 
-## Future
+### Phase 2
+
+* [ ] Exchange Listings
+* [ ] Whitepaper
+* [ ] Promotion
+
+## Phase 3
+
+* [ ] Promotion
+* [ ] Partnerships
+
+### Future
 
 * [ ] Partnerships
 * [ ] Promotion
 * [ ] Liquidity Lock
 * [ ] Ownership Renounce
-* [ ] Exchange Listings
-* [ ] Whitepaper
 * [ ] Security Audit
 * [ ] Top Ten on Coinmarketcap
 * [ ] Moon Base Avo
