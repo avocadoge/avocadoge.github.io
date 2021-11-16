@@ -91,7 +91,7 @@ AvocaDoge in circulation declines over time to encourage price stability.
 * [ ] Whitepaper
 * [ ] Promotion
 
-## Phase 3
+### Phase 3
 
 * [ ] Promotion
 * [ ] Partnerships
@@ -100,9 +100,9 @@ AvocaDoge in circulation declines over time to encourage price stability.
 
 * [ ] Partnerships
 * [ ] Promotion
+* [ ] Security Audit
 * [ ] Liquidity Lock
 * [ ] Ownership Renounce
-* [ ] Security Audit
 * [ ] Top Ten on Coinmarketcap
 * [ ] Moon Base Avo
 
