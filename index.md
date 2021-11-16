@@ -14,6 +14,8 @@
 
 <div align="center"><img src="avocadoge.svg" width="30%" alt="avocadoge logo" /></div>
 
+Contract: 0x04345674567845567465745678657
+
 <div id="social" align="center"><p>
 <a href="http://twitter.com/DogeAvoca?utm_source=avocadoge.net"><img src="social/twitter.png" width="2%" /></a>
 </p></div>
