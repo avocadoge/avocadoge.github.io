@@ -80,8 +80,8 @@ AvocaDoge in circulation declines over time to encourage price stability.
 
 * [x] Testnet Deployment
 * [x] Promotional Site
-* [x] Launch [ [link to tx](https://bscscan.com/tx/0x0b72a595e4fb9b4bac5a0306b642e7c53aa0270b650a4d6930ed54c8c7e6b7dd?utm_source=avocadoge.net)
-* [x] Burn [ [link to tx](https://bscscan.com/tx/0xc5655ceae51d60e6277af5331f9696938f102eb76fafcf4a94509b5c6c135ea3?utm_source=avocadoge.net)
+* [x] Launch [ [link to tx](https://bscscan.com/tx/0x0b72a595e4fb9b4bac5a0306b642e7c53aa0270b650a4d6930ed54c8c7e6b7dd?utm_source=avocadoge.net) ]
+* [x] Burn [ [link to tx](https://bscscan.com/tx/0xc5655ceae51d60e6277af5331f9696938f102eb76fafcf4a94509b5c6c135ea3?utm_source=avocadoge.net) ]
 * [x] Provide Liquidity [ [link to tx](https://bscscan.com/tx/0xe707d049ce7126bcb2aec63771bfa575f87e612f02c428c4ec211bbfe4732bba?utm_source=avocadoge.net) ]
 * [x] DEX Listings (Pancakeswap)
 
