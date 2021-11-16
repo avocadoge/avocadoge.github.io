@@ -1,8 +1,8 @@
 <div align="center">
 
-[Dex.Guru](https://dex.guru/token/0x2260fac5e5542a773aa44fbcfedf7c193bc2c599-eth?utm_source=avocadoge.net) |
-[Poocoin.app](https://poocoin.app/tokens/0xe2df9f730c54400934c06a17462c41c0806ed8?utm_source=avocadoge.net) |
-[BOG Charts](https://charts.bogged.finance/0xAe2DF9F730c5400934c06a17462c4C08a06ED8?utm_source=avocadoge.net)
+[Dex.Guru](https://dex.guru/token/0x57b0bb701c22338ce2427dff6c5280e7a8c50ce5-bsc?utm_source=avocadoge.net) |
+[Poocoin.app](https://poocoin.app/tokens/0x57b0bb701c22338ce2427dff6c5280e7a8c50ce5?utm_source=avocadoge.net) |
+[BOG Charts](https://charts.bogged.finance/0x57b0bb701c22338ce2427dff6c5280e7a8c50ce5?utm_source=avocadoge.net)
 
 <!--
 [CoinPaprika](https://coinpaprika.com/coin/avodoge-avocadoge/?utm_source=avocadoge.net) |
@@ -29,9 +29,9 @@ For years we have heard how Avocados are keeping us poor.
 Become rich in nutrients, by combining the protein packed nature of avocado with the meme nature of doge.
 
 <div align="center">
-<a href="https://pancakeswap.finance/swap?outputCurrency=0xae2d9f730c5440094c06a17462c41c0a06ed8&utm_source=avocadoge.net"><img src="buttons/pancakeswap_buy.png" /></a>
+<a href="https://pancakeswap.finance/swap?outputCurrency=0x57b0bb701c22338ce2427dff6c5280e7a8c50ce58&utm_source=avocadoge.net"><img src="buttons/pancakeswap_buy.png" /></a>
 <p>
-Contract: 0x04345674567845567465745678657
+Contract: 0x57b0bb701c22338ce2427dff6c5280e7a8c50ce5
 </p>
 </div>
 
@@ -75,11 +75,10 @@ AvocaDoge in circulation declines over time to encourage price stability.
 
 * [x] Testnet Deployment
 * [x] Promotional Site
-* [x] Mainnet Beta
-* [ ] Launch [ [link to tx](bscscan.com/token/0x09d0201faf1623b1c58F485364dC7B1893Ebc#balances) ]
-* [ ] Burn [ [link to tx](bscscan.com/token/0x09d0201faf1623b1c58F485364dC7B1893Ebc#balances) ]
-* [ ] Provide Liquidity [ [link to tx](bscscan.com/token/0x09d0201faf1623b1c58F485364dC7B1893Ebc#balances) ]
-* [ ] DEX Listings (Pancakeswap)
+* [x] Launch [ [link to tx](https://bscscan.com/tx/0x0b72a595e4fb9b4bac5a0306b642e7c53aa0270b650a4d6930ed54c8c7e6b7dd?utm_source=avocadoge.net)
+* [x] Burn [ [link to tx](https://bscscan.com/tx/0xc5655ceae51d60e6277af5331f9696938f102eb76fafcf4a94509b5c6c135ea3?utm_source=avocadoge.net)
+* [x] Provide Liquidity [ [link to tx](https://bscscan.com/tx/0xe707d049ce7126bcb2aec63771bfa575f87e612f02c428c4ec211bbfe4732bba?utm_source=avocadoge.net) ]
+* [x] DEX Listings (Pancakeswap)
 
 ### Phase 2
 
@@ -104,6 +103,6 @@ AvocaDoge in circulation declines over time to encourage price stability.
 
 <div align="center">
 
-[Contact](mailto:avocadogetoken@gmail.com) | [Poocoin.app](https://poocoin.app/tokens/0xe2df9f730c54400934c06a17462c41c0806ed8?utm_source=avocadoge.net)
+[Contact](mailto:avocadogetoken@gmail.com) | [Poocoin.app](https://poocoin.app/tokens/0x57b0bb701c22338ce2427dff6c5280e7a8c50ce5?utm_source=avocadoge.net)
 
 </div>
