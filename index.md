@@ -1,8 +1,8 @@
 <div align="center">
 
-[Dex.Guru](https://dex.guru/token/0x57b0bb701c22338ce2427dff6c5280e7a8c50ce5-bsc?utm_source=avocadoge.net) |
-[Poocoin.app](https://poocoin.app/tokens/0x57b0bb701c22338ce2427dff6c5280e7a8c50ce5?utm_source=avocadoge.net) |
-[BOG Charts](https://charts.bogged.finance/0x57b0bb701c22338ce2427dff6c5280e7a8c50ce5?utm_source=avocadoge.net)
+<a href="https://dex.guru/token/0x57b0bb701c22338ce2427dff6c5280e7a8c50ce5-bsc?utm_source=avocadoge.net">Dex.Guru</a> |
+<a href="https://poocoin.app/tokens/0x57b0bb701c22338ce2427dff6c5280e7a8c50ce5?utm_source=avocadoge.net">Poocoin.app</a> |
+<a href="https://charts.bogged.finance/0x57b0bb701c22338ce2427dff6c5280e7a8c50ce5?utm_source=avocadoge.net">BOG Charts</a> 
 
 <!--
 [CoinPaprika](https://coinpaprika.com/coin/avodoge-avocadoge/?utm_source=avocadoge.net) |
@@ -29,7 +29,7 @@ For years we have heard how Avocados are keeping us poor.
 Become rich in nutrients, by combining the protein packed nature of avocado with the meme nature of doge.
 
 <div align="center">
-<a href="https://pancakeswap.finance/swap?outputCurrency=0x57b0bb701c22338ce2427dff6c5280e7a8c50ce58&utm_source=avocadoge.net"><img src="buttons/pancakeswap_buy.png" /></a>
+<a href="https://pancakeswap.finance/swap?outputCurrency=0x57b0bb701c22338ce2427dff6c5280e7a8c50ce5&utm_source=avocadoge.net"><img src="buttons/pancakeswap_buy.png" /></a>
 <p style="font-size:smaller;">
 Contract: 0x57b0bb701c22338ce2427dff6c5280e7a8c50ce5
 </p>
@@ -103,6 +103,6 @@ AvocaDoge in circulation declines over time to encourage price stability.
 
 <div align="center">
 
-[Contact](mailto:avocadogetoken@gmail.com) | [Poocoin.app](https://poocoin.app/tokens/0x57b0bb701c22338ce2427dff6c5280e7a8c50ce5?utm_source=avocadoge.net)
+  <a href="mailto:avocadogetoken@gmail.com">Contact</a> | <a href="https://poocoin.app/tokens/0x57b0bb701c22338ce2427dff6c5280e7a8c50ce5?utm_source=avocadoge.net">Poocoin.app</a>
 
 </div>
