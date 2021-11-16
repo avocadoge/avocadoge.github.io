@@ -1,6 +1,6 @@
 <div align="center">
 
-<a href="https://poocoin.app/tokens/0x57b0bb701c22338ce2427dff6c5280e7a8c50ce5?utm_source=avocadoge.net">Poocoin.app</a> |
+<a href="https://poocoin.app/tokens/0x57b0bb701c22338ce2427dff6c5280e7a8c50ce5?utm_source=avocadoge.net">Poocoin.app</a>
 
 <!--
 <a href="https://dex.guru/token/0x57b0bb701c22338ce2427dff6c5280e7a8c50ce5-bsc?utm_source=avocadoge.net">Dex.Guru</a> |
