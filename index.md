@@ -2,7 +2,7 @@
 
 <a href="https://poocoin.app/tokens/0x57b0bb701c22338ce2427dff6c5280e7a8c50ce5?utm_source=avocadoge.net">Poocoin.app</a> |
 <a href="https://bscscan.com/token/0x57b0bb701c22338ce2427dff6c5280e7a8c50ce5?utm_source=avocadoge.net">BSC Scan</a> |
-  <a href="https://rarible.com/avocadoge?utm_source=avocadoge.net">AvocaDoge NFTs!</a>
+  <b><a href="https://rarible.com/avocadoge?utm_source=avocadoge.net">AvocaDoge NFTs!</a></b>
 
 <!--
 <a href="https://dex.guru/token/0x57b0bb701c22338ce2427dff6c5280e7a8c50ce5-bsc?utm_source=avocadoge.net">Dex.Guru</a> |
@@ -109,6 +109,6 @@ AvocaDoge in circulation declines over time to encourage price stability.
 
 <div align="center">
 
-  <a href="mailto:avocadogetoken@gmail.com">Contact</a> | <a href="https://poocoin.app/tokens/0x57b0bb701c22338ce2427dff6c5280e7a8c50ce5?utm_source=avocadoge.net">Poocoin.app</a>
+  <a href="mailto:avocadogetoken@gmail.com">Contact</a> | <a href="https://poocoin.app/tokens/0x57b0bb701c22338ce2427dff6c5280e7a8c50ce5?utm_source=avocadoge.net">Poocoin.app</a> |  <b><a href="https://rarible.com/avocadoge?utm_source=avocadoge.net">AvocaDoge NFTs!</a></b>
 
 </div>
