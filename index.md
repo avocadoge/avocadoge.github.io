@@ -40,10 +40,12 @@ Contract: 0x57b0bb701c22338ce2427dff6c5280e7a8c50ce5
 <p><b>Remember to set slippage to 12% or the transfer will fail</b></p>
 </div>
 
+
 <div align="center">
 <p>Also consider supporting the development of AvocaDoge by picking up a one-of-a-kind 
-  <b><a href="https://rarible.com/avocadoge?utm_source=avocadoge.net">AvocaDoge NFT!</a></b>
+  <b><a href="https://rarible.com/avocadoge?utm_source=avocadoge.net">AvocaDoge NFT!</a></b></p>
 </div>
+
 
 ## Features
 
