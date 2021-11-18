@@ -14,7 +14,7 @@
 -->
 </div>
 
-<div align="center"><img src="avocadoge.svg" width="30%" alt="avocadoge logo" /></div>
+<div align="center"><img src="classic_doge.png" width="30%" alt="avocadoge logo" /></div>
 
 <div id="social" align="center"><p>
 <a href="http://twitter.com/DogeAvoca?utm_source=avocadoge.net"><img src="social/twitter.png" width="4%" /></a>
